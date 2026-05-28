@@ -1,0 +1,3 @@
+Don't create large interfaces.
+
+Clients should not have to implement unnecessary methods.

@@ -1,0 +1,7 @@
+Class:
+- Open for extension
+- But closed for modification
+
+Translation:
+- Don't modify existing code repeatedly.
+- If you need to add a new feature, **extend** it instead.
