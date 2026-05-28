@@ -1,0 +1,2 @@
+A high-level class should not depend directly on a low-level class.
+It should depend on an abstraction (interface).
